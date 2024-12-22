@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "TIMEme",
+    "version": "1.0",
+    "description": "Detects and converts timezones on webpages to your local timezone automatically.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+    ,
+    "background":{
+      "service_worker":"background.js"
+    },
+    "options_page":"timezone.html"
+  }
+  
