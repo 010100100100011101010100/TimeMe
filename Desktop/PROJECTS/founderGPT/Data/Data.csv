@@ -1,0 +1,125 @@
+prompts,answers,categories
+ALIGNED,"Aligned Layer is a pioneering decentralized verification layer for Ethereum that utilizes Eigen Layer to enhance zero-knowledge proof capabilities, aiming to provide affordable and efficient verification through restaking while focusing on integrating advanced ZK technologies to reduce costs and improve the developer experience.",ZK
+anoma,"Anoma is a developing layer one blockchain project that aims to facilitate private, decentralized asset trading across multiple networks without relying on a central base.",ZK
+ANYKRAFT,"ANYKRAFT, a Lemniscap portfolio company, focuses on enhancing consumer applications through blockchain technology, aiming to empower users and creators in the Web3 space by leveraging decentralized solutions and fostering digital economy engagement.",Consumer
+Arcade,"Arcade is a DeFi platform that enables users to secure loans using NFTs as collateral, having raised $15 million in Series A funding from prominent investors like Pantera Capital and Franklin Templeton Blockchain Fund.",DeFi
+Astria,"Astria, a Lemniscap Infrastructure portfolio company that has raised $18 million in funding, is developing a shared sequencer network to enable multiple rollups to use a decentralized network of sequencers, replacing centralized sequencing.",Infrastructure
+AURORA,"Aurora, developed by the NEAR Protocol team, is an Ethereum Virtual Machine that enables developers to run their dApps on the Ethereum network while leveraging NEAR Protocol's capabilities for improved performance and scalability, having recently raised $12 million in a Series A funding round.",Infrastructure
+AVALANCHE,"Avalanche is a high-performance blockchain protocol in Lemniscap's portfolio, offering scalability, flexibility, and Ethereum compatibility for efficient dApp and custom blockchain network development within the Web3 ecosystem.",Infrastructure
+AXELAR,"Axelar is a billion-dollar valued, decentralized interoperability network that enables cross-chain communication and seamless interaction between multiple blockchains, offering developers tools to build applications that can operate across various blockchain ecosystems.",Infrastructure
+basic.tech,"Basic.tech is a portfolio company of Lemniscap, an investment firm focused on crypto assets and blockchain startups, likely operating within the Web3 ecosystem.",Infrastructure
+BITNOMIAL,"Bitnomial is a Bitcoin derivatives exchange, founded in 2014, that offers futures and options trading to connect digital asset hedgers with institutional traders, enabling risk management in the cryptocurrency market.",DeFi
+BOLT LABS,"Bolt Labs, a Lemniscap portfolio company founded in 2017, develops infrastructure for secure and private digital asset management, offering products like Lock-Keeper for key management and anonymous payment channels, with backing from notable investors such as Dekrypt Capital and Ripple's Xpring.",Infrastructure
+BRINK,"BRINK, a portfolio company of crypto-focused investment firm Lemniscap, develops crucial infrastructure solutions for the blockchain ecosystem, aligning with Lemniscap's emphasis on innovative technologies such as zero-knowledge infrastructure and decentralized physical infrastructure.",Infrastructure
+CELESTIA,"Celestia is a modular data availability network within the Lemniscap Infrastructure portfolio that simplifies the secure launch of custom blockchains, enhancing blockchain infrastructure capabilities with a team of 10 to 100 employees.",Infrastructure
+certora,"Certora is a blockchain security company that offers formal verification tools, smart contract audits, and collaborative security contests to enhance the integrity of decentralized finance applications, protecting billions in assets and helping developers identify vulnerabilities early in the development process.",Tooling
+CHAINSPACE,"Chainspace, founded by Alberto Sonnino and backed by investors like Lemniscap, is a decentralized infrastructure platform that focuses on developing scalable blockchain solutions through sharded smart contracts, aiming to innovate within the Web3 ecosystem.",Infrastructure
+cosmology,"Cosmology is a comprehensive technology suite that simplifies Web3 application development within the Cosmos ecosystem, offering tools and resources for developers of all skill levels to create various decentralized applications, from wallets to NFTs, while streamlining complex blockchain processes.",Tooling
+Custodia,"Custodia, a company within the Lemniscap portfolio, is likely involved in the decentralized finance (DeFi) sector, given Lemniscap's focus on investing in blockchain and cryptocurrency startups.",DeFi
+deBridge,"deBridge is a cross-chain protocol that enables secure asset transfers and smart contract interoperability across multiple blockchains, addressing ecosystem fragmentation in DeFi through its network of independent oracles and validators.",Infrastructure
+den,"Den, a Lemniscap Tooling portfolio company, develops essential infrastructure and tools for Web3 decentralized applications, contributing to Lemniscap's strategy of investing in early-stage blockchain technologies that improve user experiences and accessibility in the decentralized ecosystem. The fastest multisig for
+onchain teams. Send crypto and fiat. Swap and bridge. Use any dapp or contract. Everything onchain. All in one place.",Tooling
+dHEDGE,"dHEDGE is a DeFi protocol that enables users to create and invest in decentralized asset management strategies, bridging traditional asset management with decentralized finance by allowing fund managers to build and manage portfolios on behalf of investors within the crypto ecosystem.",DeFi
+dora,"Dora is a unified search engine for multiple blockchain networks that raised $5.5 million to improve its platform, which enables users to search onchain data and perform crosschain transactions across over 20 networks through a single interface.",Infrastructure
+EigenLayer,"EigenLayer is a decentralized infrastructure layer that enhances Ethereum's security and scalability by allowing validators to ""re-stake"" their assets across multiple protocols.",Infrastructure
+encode club,"Encode Club is a Web3 education community that raised $5 million in seed funding to foster collaborative learning and engagement among developers, professionals, and students interested in emerging technologies, with the goal of helping individuals achieve their personal and professional objectives in the Web3 space.",Creator Economy
+Euler,"Euler is a decentralized finance protocol founded in 2020 that operates on the Ethereum network, offering permissionless lending and borrowing of a wide range of ERC20 tokens through innovative features like reactive interest rates and a tiered risk management system.",DeFi
+EZKL,EZKL is a cryptography R&D company that leverages zero-knowledge proofs to enhance the security and integrity of AI and machine learning systems without compromising sensitive data.,ZK
+Fairblock,"Fairblock is a blockchain infrastructure company that has raised $2.5 million to develop privacy and security solutions for blockchain systems, focusing on conditional decryption and pre-execution privacy using advanced cryptography techniques.",Infrastructure
+FARWORLD,"FARWORLD, a gaming company founded in 2024, is developing games for the Farcaster ecosystem and recently secured $1.75 million in pre-seed funding from investors including Lemniscap and Variant.",Consumer
+πFERMAH,"πFERMAH, a Lemniscap portfolio company founded by cryptography expert Vanishree Rao, operates a marketplace for zero-knowledge proof generation, aiming to simplify and democratize the integration of ZK proofs in applications, and recently secured $5.2 million in seed funding for growth and development.",ZK
+Figment,"Figment, a blockchain and cryptocurrency company founded in 2018, provides staking solutions and middleware services for Web3 investors and developers, offering tools to enhance blockchain infrastructure and operating under Figment Capital for early-stage investments in the sector.",Infrastructure
+FJORD,"Fjord Foundry is a blockchain-focused platform that facilitates early-stage funding for innovative projects through transparent token sale methods, including Liquidity Bootstrapping Pools, while also expanding its offerings with recent seed funding to introduce a native token and enhance user experiences across multiple blockchain networks.",DeFi
+flowdesk,"Flowdesk is a regulated digital asset trading and technology firm founded in 2020, offering market making, OTC trading, and treasury management solutions across numerous exchanges and cryptocurrencies, with a focus on transparency and client control through its analytics platform.",Infrastructure
+fluidity,"Fluidity is a DeFi protocol that wraps stablecoins to generate yield, rewards users for on-chain transactions through a ""spend-to-earn"" model, and recently raised $1.3 million to expand its offerings and launch on mainnet.",DeFi
+FORDEFI,"FORDEFI offers a DeFi-focused MPC wallet solution that enables self-custody of private keys and multi-chain connectivity, making it particularly suitable for investment funds managing diverse token strategies across multiple blockchain networks.",Infrastructure
+gateway.fm,"Gateway.fm is a pioneering decentralized blockchain infrastructure provider that offers globally distributed, multi-chain solutions and advanced staking services to simplify node management and facilitate Web3 project scaling, having recently secured $4.6 million in seed funding to further develop their products and services.",Infrastructure
+GATTACA,"Gattaca, a research-driven crypto technology company within the Lemniscap infrastructure portfolio, focuses on providing resources to decentralized networks and supporting innovation in the Web3 ecosystem.",Infrastructure
+VARA,"VARA, a project within the Lemniscap Infrastructure portfolio, is associated with the Vara Network, the first standalone network of the Gear Protocol, offering a substrate-based platform for rapid development and deployment of scalable Web3 applications, with a focus on community-led development and decentralization.",Infrastructure
+HackMD,"HackMD is a collaborative, real-time markdown editor that streamlines teamwork and documentation processes, particularly for development and content creation teams, with relevance in the Web3 ecosystem as part of Lemniscap's portfolio.",Consumer
+Hats,,Tooling
+Hodl Hodl,"Hodl Hodl is a global peer-to-peer Bitcoin trading platform that uses a multisig escrow system to facilitate secure, direct transactions between users without holding their funds, supporting various payment methods and currencies.",DeFi
+impervious,"Impervious, part of the Lemniscap Infrastructure portfolio, develops advanced privacy solutions for blockchain applications, emphasizing secure communications and transactions in Web3 environments using cutting-edge technology.",Infrastructure
+IRON FISH,"Iron Fish is a Layer 1 blockchain platform, launched in 2020, that aims to provide a universal privacy layer for Web3 by enabling private and compliant cryptocurrency transactions through advanced cryptographic techniques, having raised $27.7 million from notable investors.",Infrastructure
+irys,"Irys, formerly Bundlr Network, is an on-chain data storage company that recently raised $8.9 million to scale its capabilities in tracing and verifying digital information origins, addressing misinformation challenges and processing over 1.9 billion transactions to date.",Infrastructure
+KYVE,"KYVE is a decentralized network that provides scalable, validated, and permanent storage for various data streams using Arweave, creating an accessible data lake for the Web3 ecosystem with historical blockchain data retrieval capabilities.",Infrastructure
+LABYRINTH,"LABYRINTH develops a multi-chain modular privacy framework that enables anonymous transactions for individuals and machines, enhancing privacy and security in blockchain ecosystems.",ZK
+LACONIC,"LACONIC, a Chicago-based Public Benefit Corporation founded in 2019, specializes in developing infrastructure for decentralized applications, leveraging expertise in blockchain technologies and recently expanding into AI/ML capabilities for its Sadar NCM platform.",Infrastructure
+Legitimate,"Legitimate, a portfolio company of crypto-focused investment firm Lemniscap, helps brands maintain regulatory compliance, especially regarding Digital Product Passports, enabling efficient management of compliance standards within the Web3 ecosystem.",Consumer
+Liquity,"Liquity is a DeFi protocol that enables users to borrow LUSD, a stablecoin backed by Ethereum collateral, through a unique stability pool mechanism that offers low-cost borrowing and yield-earning opportunities.",DeFi
+Lita,"Lita is a blockchain infrastructure company that leverages zero-knowledge technology, particularly through its Valida zkVM solution, to enhance speed, scalability, and privacy for various decentralized applications.",ZK
+LN MARKETS,"LN Markets is a decentralized Bitcoin derivatives trading platform that exclusively utilizes the Lightning Network for faster and cheaper transactions, offering futures and options trading while contributing to the DeFi ecosystem as part of Lemniscap's investment portfolio.",DeFi
+LORE,,Tooling
+MATCHBOX,"Matchbox DAO is an ecosystem that promotes fully on-chain games through a decentralized autonomous organization, focusing on innovation, education, and development in the blockchain gaming industry.",Consumer
+Mellow,Mellow is a DeFi protocol that offers automated investment strategies and products designed to optimize user interactions and simplify engagement within the decentralized finance ecosystem.,DeFi
+MONAD,"Monad, a Lemniscap Infrastructure portfolio blockchain project, raised $225 million in Series A funding to develop high-performance blockchain technology utilizing advanced parallel processing for improved execution efficiency and scalability in Web3 applications.",Infrastructure
+moonwell,"Moonwell is a DeFi protocol launched in 2021 on the Moonbeam and Moonriver networks, offering simplified lending and borrowing services with a $84.78 million market cap and $23 million in funding.",DeFi
+nifty island,"Nifty Island is a free-to-play, NFT-integrated social game world where players create customizable islands, engage in collaborative experiences, and complete challenges to earn rewards while fostering community interaction.",Consumer
+NVR,"NVR, possibly associated with Consumer Portfolio Services (CPS), is likely involved in the automotive financing sector, particularly for individuals with challenging credit histories.",Consumer
+Open Dollar,"Open Dollar is a DeFi platform that offers low-interest, tradable on-chain loans to cryptocurrency investors and traders, allowing them to leverage assets while maintaining liquidity, as part of Lemniscap's portfolio of innovative blockchain startups.",DeFi
+Orbiter Finance,"Orbiter Finance is a Bengaluru-based decentralized finance company that provides a cross-rollup bridge for transferring Ethereum assets between different Layer 2 networks, enhancing cross-chain interoperability in the DeFi ecosystem.",Infrastructure
+PARAGRAPH,Paragraph is a blockchain-based publishing and newsletter platform that aims to revolutionize how creators build communities and interact with their audiences in the Web3 ecosystem.,Consumer
+paraswap,"ParaSwap is a DeFi aggregator that optimizes token exchanges on Ethereum by pooling liquidity from various sources, offering features like gas cost management and market protection, while catering to both individual and institutional traders with advanced trading solutions and API services.",DeFi
+PENDLE,"Pendle is a DeFi platform that enables yield tokenization and trading, allowing users to manage their yield exposure and create multiple income streams, with $3.7 million raised in funding.",DeFi
+PENUMBRA,"Penumbra is a privacy-focused, cross-chain decentralized protocol built on Tendermint that enables confidential transactions, staking, swapping, and market making within the Cosmos ecosystem and beyond.",ZK
+Pluto,"Pluto, a Lemniscap portfolio company based in New York, develops applied cryptography solutions and tools for integrating zero-knowledge proofs into blockchain applications, aimed at enhancing security and privacy for developers in the zk space.",ZK
+PUFFER,"Puffer Finance, a blockchain infrastructure company developing innovative Web3 solutions, recently secured $5.5 million in seed funding to advance its infrastructure offerings for the expanding crypto and blockchain ecosystem.",Infrastructure
+PUFFPAW,"PuffPaw, a Lemniscap-backed project on the Berachain platform, combines vaping with blockchain technology in a ""Vape to Earn"" initiative, aiming to innovate the consumer experience at the intersection of decentralized physical infrastructure and cultural engagement.",Consumer
+Questbook,"Questbook is a Web3 platform that streamlines grant and investment allocation for blockchain projects, offering transparent fund management, developer screening, and educational resources while fostering community participation in the funding process.",Tooling
+RAGE TRADE,"Rage Trade is an upcoming DeFi project with notable investor backing, preparing for its ICO in August 2024, offering innovative trading features like perpetual ETH swaps and USDC yield-farming, while emphasizing community engagement through a point farming system and transparent tokenomics.",DeFi
+READY PLAYER,"Ready Player DAO is a decentralized Play-to-Earn platform that develops gaming software, leveraging blockchain technology to combine gaming with decentralized finance while giving participants a stake in governance.",Consumer
+RedStone,"RedStone is a DeFi oracle platform that raised $7 million in seed funding to develop scalable data infrastructure for Web3 applications through its two main products: RedStone Oracles, which provide reliable price data feeds across blockchains, and Warp Contracts, which optimize computational efficiency on the Arweave storage chain.",Infrastructure
+REFRACTION FESTIVAL,"Refraction Festival is an artist-driven community that integrates digital art, music, and culture across online platforms, blockchain technology, and real-world experiences.",Consumer
+rysk,"Rysk Finance is a DeFi company that developed the Dynamic Hedging Vault, an automated market maker for options trading, and is expanding its offerings with Rysk Beyond to become the leading on-chain market maker for DeFi derivatives.",DeFi
+Safary,"Safary is a privacy-focused, Web3 alternative to Google Analytics that offers easy-to-use, cookie-free tracking and analysis of marketing metrics for Web3 teams, backed by $2.4 million in pre-seed funding.",Creator Economy
+SEED CLUB,"SEED CLUB is a Cayman Islands-based venture capital firm founded in 2021 that invests in and supports crypto and Web3 projects within the creator economy, focusing on empowering innovators across various sectors including consumer apps, DeFi, infrastructure, and gaming.",Creator Economy
+SORT,"Sort is a platform that simplifies Web3 app development by providing easy-to-use UI components and smart contract integration, recently raising $3.5 million in seed funding to expand its offerings and team with the goal of onboarding more developers into the blockchain ecosystem.",Infrastructure
+spacemesh,"Spacemesh is a blockmesh platform utilizing proof-of-space-time consensus, enabling users to mine with personal computers, promoting environmental sustainability and democratizing blockchain participation.",Infrastructure
+SPIN,"Spin is a multichain decentralized exchange founded in 2021, offering on-chain derivatives trading with advanced features and a unique order book model, initially operating on NEAR Protocol and Solana, and aiming to provide a competitive, user-friendly trading experience comparable to centralized exchanges.",DeFi
+stability.ai,"Stability AI is a well-funded technology company that develops and provides open-source generative AI models for various applications, including imaging, language processing, code generation, and audio, catering to developers, researchers, and businesses in the AI and blockchain sectors.",Creator Economy
+stackr,"Stackr Labs, an Ethereum scaling startup that recently secured $5.5 million in seed funding, is developing blockchain rollup solutions to improve the performance and scalability of the Ethereum network.",Infrastructure
+STEPN GO,"STEPN GO, associated with Lemniscap's portfolio company STEPN, is a web3 application that incentivizes physical activity by allowing users to earn cryptocurrency through walking, jogging, or running, blending fitness with decentralized finance through blockchain technology and gamification.",Consumer
+STROOM,"Stroom, a Kyiv-based developer of a Bitcoin liquid staking protocol on the Lightning Network, recently secured $3.5 million in seed funding from notable investors, including Lemniscap, a prominent backer of early-stage Web3 companies.",Infrastructure
+Switchboard,"Switchboard Technology Labs, Inc. is a decentralized oracle network for the Solana blockchain that has raised $11 million in funding and offers developer APIs to integrate blockchain data into applications.",Infrastructure
+t3rn,"t3rn is a smart contract hosting platform that enables trustless, interoperable cross-chain execution within the Polkadot ecosystem, offering enhanced security, cost-effectiveness, and reliable transactions through its modular architecture and fail-safe mechanism.",Infrastructure
+Tally,"Tally, a New York-based company founded in 2020 with $7.5 million in funding, develops tools for decentralized autonomous organizations (DAOs) to enhance user participation and community decision-making in decentralized environments.",Tooling
+taralli labs,"Taralli Labs is a stealth-mode startup with a small team developing a decentralized protocol for a zero-knowledge proof supply chain, aiming to improve efficiency and security in supply chain processes without revealing sensitive data.",ZK
+The Graph,"The Graph is a decentralized protocol that indexes and facilitates efficient querying of blockchain data, enabling developers to create and publish open APIs (subgraphs) that streamline data access for decentralized applications, thus serving as a crucial infrastructure layer for Web3.",Infrastructure
+TOKEMAK,"Tokemak is a DeFi-focused company that operates a liquidity marketplace, optimizing ETH yields across various DEXs and providing liquidity mining through its TOKE token, while also serving as an Ethereum Layer-2 protocol to enhance liquidity for crypto asset exchanges.",DeFi
+TRIBUTE LABS,"Tribute Labs, a New York-based company founded in 2017, develops open-source frameworks on the Ethereum blockchain to support and enhance Decentralized Autonomous Organization (DAO) communities, offering tools like the Tribute DAO Framework to improve functionality and security in the cryptocurrency and DeFi sectors.",Tooling
+twilight.org,,Infrastructure
+onvia.org,,Infrastructure
+VYBE NETWORK,"Vybe Network is a blockchain infrastructure company that provides software and data services for the Solana blockchain, having raised $13.1 million in funding to support its mission of offering real-time and historical blockchain data solutions for developers and users.",Infrastructure
+WATCHES.IO,"WATCHES.IO is a Miami-based startup that aims to revolutionize the luxury watch market by providing a comprehensive financial platform for tracking, trading, and investing in watches, including features like real-time market data, watch-backed NFTs, and secure transactions.",Consumer
+webb,"Webb is a Lemniscap portfolio company developing cross-chain privacy solutions, including a private bridge protocol, using Zero-Knowledge and Multi-Party Computation technologies to establish a new privacy standard for multi-blockchain applications.",Infrastructure
+Wield Labs,"Wield Labs, a small Lemniscap portfolio company in the blockchain and crypto consumer sector, focuses on exploring the Farcaster protocol and developing Web3 applications using decentralized technologies.",Consumer
+yolorekt,YOLOrekt is a blockchain-based platform that enhances in-game liquidity through decentralized betting pools and offers a social prediction marketplace for users to speculate on future asset prices.,DeFi
+ZBD.gg,"ZBD is a popular Bitcoin-earning app backed by Lemniscap, offering users the opportunity to earn real Bitcoin rewards through gaming, surveys, and other activities, while providing an engaging and user-friendly experience for both novice and experienced cryptocurrency enthusiasts.",Consumer
+,,
+Categories,,
+Name,,
+ZK,,
+Consumer,,
+DeFi,,
+Infrastructure,,
+Tooling,,
+Creator Economy,,
+,,
+KPIs,,
+Name,,
+TVL,,
+Volume,,
+Price,,
+Users,,
+,,
+Funding Stage,,
+Name,,
+Pre-seed,,
+Seed,,
+A,,
+B,,
+C,,
+D,,
+E,,
+Bridge Loan,,
+IDO,,
